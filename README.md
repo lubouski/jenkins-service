@@ -5,7 +5,7 @@ jenkins automated deployment
 ## Authors
 
 * **Aliaksandr Lubouski**
-* **Artsiom Makhnach ** 
+* **Artsiom Makhnach** 
 
 ## How to built jenkins from this repo
 
